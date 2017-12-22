@@ -1,0 +1,16 @@
+{
+  "name": "bitscript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitcore-lib": "^0.15.0",
+    "fetch": "^1.1.0",
+    "node-fetch": "^1.7.3"
+  }
+}
